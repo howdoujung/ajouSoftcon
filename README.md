@@ -1,4 +1,5 @@
 ## exe 파일이 5기가가 넘는 상황이므로 스크립트 코드만 첨부하였습니다. 구글 드라이브 링크를 걸어두겠습니다.
+## https://drive.google.com/file/d/1ZtNbrUWzkJ7iRtWPY16JmIzZ6Nhdy8MR/view?usp=drive_link
 
 ## 조작법
 WASD: 움직임<br>
